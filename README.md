@@ -1,6 +1,6 @@
 ## Introduction
 
-Welcome to the revolutionary world of [Sprunki Phase 777 But 3.7](http://sprunki1996.pro/games/sprunki-phase-777-but-3-7), where experimental music creation meets neural-reactive visuals in an unprecedented digital symphony. Visit the [Sprunki website](http://sprunki1996.pro/) to learn more about the complete Sprunki universe.
+Welcome to the revolutionary world of [Sprunki Phase 777 But 3.7](https://sprunki1996.pro/games/sprunki-phase-777-but-3-7), where experimental music creation meets neural-reactive visuals in an unprecedented digital symphony. Visit the [Sprunki website](https://sprunki1996.pro/) to learn more about the complete Sprunki universe.
 
 ![Sprunki Phase 777 But 3.7](/Sprunki%20Phase%20777%20But%203.7.png)
 
@@ -81,7 +81,7 @@ Welcome to the revolutionary world of [Sprunki Phase 777 But 3.7](http://sprunki
 
 ## Community and Support
 
-Visit [sprunki1996.pro](http://sprunki1996.pro/) for:
+Visit [sprunki1996.pro](https://sprunki1996.pro/) for:
 
 - Latest updates
 - Community forums
